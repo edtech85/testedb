@@ -1,0 +1,44 @@
+[
+        {
+            "id": 1,
+            "role_name": "Admin",
+            "createdAt": "2023-01-25T18:10:39.000Z",
+            "updatedAt": "2023-01-25T18:10:39.000Z"
+        },
+        {
+            "id": 2,
+            "role_name": "Dev Senior",
+            "createdAt": "2023-01-25T18:10:55.000Z",
+            "updatedAt": "2023-01-25T18:10:55.000Z"
+        },
+        {
+            "id": 3,
+            "role_name": "Dev Jr",
+            "createdAt": "2023-01-25T18:11:00.000Z",
+            "updatedAt": "2023-01-25T18:11:00.000Z"
+        },
+        {
+            "id": 4,
+            "role_name": "Tech",
+            "createdAt": "2023-01-25T18:11:06.000Z",
+            "updatedAt": "2023-01-25T18:11:06.000Z"
+        },
+        {
+            "id": 5,
+            "role_name": "Trainee",
+            "createdAt": "2023-01-25T21:44:55.000Z",
+            "updatedAt": "2023-01-25T21:44:55.000Z"
+        },
+        {
+            "id": 10,
+            "role_name": "NewTeste22",
+            "createdAt": "2023-01-25T22:00:42.000Z",
+            "updatedAt": "2023-01-26T01:09:20.000Z"
+        },
+        {
+            "id": 16,
+            "role_name": "TesteFront",
+            "createdAt": "2023-01-26T02:55:32.000Z",
+            "updatedAt": "2023-01-26T02:55:32.000Z"
+        }
+    ]
