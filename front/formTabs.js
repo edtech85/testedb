@@ -38,7 +38,7 @@ function FormTabs() {
       !formData.cpf ||
       !formData.date_start ||
       !formData.id_profile ||
-      !formData.role ||
+      // !formData.role ||
       !formData.email ||
       !formData.password ||
       !formData.confirmPassword
